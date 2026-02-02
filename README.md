@@ -29,3 +29,10 @@ A production-ready, agentic AI chatbot using LangGraph and Groq-backed LLMs with
 
 * __frontend.py__: Streamlit-based UI allowing interactive queries and model control.
 
+
+
+https://github.com/user-attachments/assets/225c6b7a-bc82-4fd8-adb0-2c62e3312d7f
+
+
+
+
